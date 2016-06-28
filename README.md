@@ -38,6 +38,10 @@ Para empresas no Brasil, você pode continuar com o modelo CLT ou PJ normalmente
 
 Aqui vem uma das partes mais importantes, que além de garantirem toda a segurança do processo, podem lhe ajudar de algumas maneiras na hora de declarar todo o imposto referente ao valor recebido.
 
+## Husky
+http://husky.io/
+TBD DESCRIPTION
+
 ## Paypal
 
 ![paypal](paypal.jpg)
